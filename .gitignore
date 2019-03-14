@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 syntax: glob
 .DS_Store
 # Byte-compiled / optimized / DLL files
@@ -24,3 +25,57 @@ README.{pdf,html,doc,docx,odt}
 bib.keys
 *.swp
 .Rproj.user
+||||||| merged common ancestors
+syntax: glob
+.DS_Store
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pickle
+
+*.Rproj*
+*.Rout
+.RData
+.Rhistory
+
+# pandoc output
+rmarkdown*.{pdf,html,doc,docx,odt}
+paper*.{pdf,html,doc,docx,odt}
+README.{pdf,html,doc,docx,odt}
+
+# graphics
+*.png
+*.pdf
+
+# temp files
+*\~
+bib.keys
+*.swp
+=======
+syntax: glob
+.DS_Store
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pickle
+
+*.Rproj*
+*.Rout
+.RData
+.Rhistory
+
+# pandoc output
+rmarkdown*.{pdf,html,doc,docx,odt}
+paper*.{pdf,html,doc,docx,odt}
+README.{pdf,html,doc,docx,odt}
+
+# graphics
+*.png
+*.pdf
+
+# temp files
+*\~
+bib.keys
+*.swp
+.Rproj.user
+>>>>>>> e94a9afb73495bf4ef12b9d638c53ce7bab2e09a
