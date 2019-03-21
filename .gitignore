@@ -25,13 +25,6 @@ README.{pdf,html,doc,docx,odt}
 bib.keys
 *.swp
 .Rproj.user
-||||||| merged common ancestors
-syntax: glob
-.DS_Store
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*.pickle
 
 *.Rproj*
 *.Rout
